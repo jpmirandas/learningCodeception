@@ -7,6 +7,9 @@
 class_name: AcceptanceTester
 modules:
     enabled:
-        - PhpBrowser:
+        ##- PhpBrowser:
+        ##    url: https://www.google.com.br
+        - WebDriver:
             url: https://www.google.com.br
+            browser: phantomjs
         - \Helper\Acceptance

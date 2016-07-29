@@ -1,4 +1,8 @@
-.buildpath
-.project
-org.eclipse.php.core.prefs
-org.eclipse.wst.common.project.facet.core.xml
+
+learningCodeception.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+profiles_settings.xml
+Project_Default.xml
