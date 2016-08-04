@@ -13,6 +13,11 @@ extensions:
     enabled:
         - Codeception\Extension\RunFailed
         - Codeception\Extension\Recorder
+        - Codeception\Extension\Phantoman
+    config:
+        Codeception\Extension\Phantoman:
+            path: '/usr/bin/phantomjs'
+            suites: ['acceptance']
 modules:
     config:
         Db:

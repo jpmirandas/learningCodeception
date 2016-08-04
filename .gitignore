@@ -8,3 +8,4 @@ profiles_settings.xml
 Project_Default.xml
 composer.lock
 vendor
+*_output

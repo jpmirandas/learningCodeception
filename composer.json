@@ -1,5 +1,6 @@
 {
     "require": {
-        "codeception/codeception": "^2.2"
+        "codeception/codeception": "^2.2",
+        "site5/phantoman": "^1.1"
     }
 }
