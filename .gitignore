@@ -6,3 +6,5 @@ vcs.xml
 workspace.xml
 profiles_settings.xml
 Project_Default.xml
+composer.lock
+vendor
