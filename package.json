@@ -1,5 +1,5 @@
 {
-  "dev-dependencies": {
+  "devDependencies": {
     "phantomjs": "^2.1.7"
   }
 }
