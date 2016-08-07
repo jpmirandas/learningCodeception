@@ -9,3 +9,4 @@ Project_Default.xml
 composer.lock
 vendor
 *_output
+node_modules
