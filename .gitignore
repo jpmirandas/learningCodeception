@@ -10,3 +10,5 @@ composer.lock
 vendor
 *_output
 node_modules
+jsLibraryMappings.xml
+learningCodeception_node_modules.xml
